@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CD6155</color>
+    <color name="colorPrimaryDark">#CD6155</color>
+    <color name="colorAccent">#2980B9</color>
+    <color name="white">#F4ECF7</color>
+    <color name="red">#ec7063</color>
+    <color name="menuList">#F5B7B1</color>
+    <color name="green">#24ff78</color>
+    <color name="cardView">#F4ECF7</color>
+    <color name="check">#24ff77</color>
+    <color name="logInBTN">#F8C471</color>
+    <color name="textBlack">#2c3e50</color>
+</resources>
